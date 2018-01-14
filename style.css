@@ -1,0 +1,34 @@
+body {
+  font-family: 'Joti One', cursive;
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+    outline: none;
+}
+
+h1 {
+  text-align: center;
+  font-size: 68px;
+}
+
+.starting-game {
+  text-align:  center;
+}
+
+.starting-game button {
+  width: 220px;
+  height: 65px;
+  margin-top: 20px;
+  font-size: 30px;
+  text-transform: uppercase;
+  border-radius: 32px;
+}
+
+.starting-game input {
+  height: 12px;
+  padding: 8px;
+  border-radius: 33px;
+}
